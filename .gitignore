@@ -25,6 +25,7 @@ tmp/*
 libs/FFmpeg/*
 output/*
 plan
+Pods/*
 
 
 KxMovieExample/SampleMovies/*
